@@ -1,5 +1,4 @@
-name: Your New Jekyll Site
+name: Flex
 markdown: redcarpet
 pygments: true
-baseurl: /
-encoding: utf-8
+

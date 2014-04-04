@@ -1,7 +1,3 @@
-name: Your New Jekyll Site
-markdown: redcarpet
+name: Flex
 pygments: true
-baseurl: /
-encoding: utf-8
-paginate: 5
-paginate_path: "page:num"
+markdown: rdiscount
